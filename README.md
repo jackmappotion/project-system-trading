@@ -7,7 +7,7 @@
 시스템 매매를 위해 [Main] 바탕으로 백오피스를 구현한것
 
 ### ETL
-<img width="1024" alt="image" src="./.README_ASSETS/etl_png.png">
+<img width="1024" alt="image" src="./.README_ASSETS/etl.png">
 
 #### ETL Source
 - 한국투자증권
@@ -20,7 +20,7 @@
     - KOSPI sector 
 
 ### Analysis
-<img width="1024" alt="image" src="./.README_ASSETS/analysis_png.png">
+<img width="1024" alt="image" src="./.README_ASSETS/analysis.png">
 
 #### Analysis Idea
 - Technical Analysis
