@@ -1,9 +1,13 @@
 # System-Trading
 
-## Main
+## main
+데이터 엔지니어링을 진행한 부분
+
+## backoffice
+시스템 매매를 위해 [Main] 바탕으로 백오피스를 구현한것
 
 ### ETL
-<img width="1035" alt="image" src="./.readme_assets/etl_png.png">
+<img width="1024" alt="image" src="./.README_ASSETS/etl_png.png">
 
 #### ETL Source
 - 한국투자증권
@@ -16,7 +20,7 @@
     - KOSPI sector 
 
 ### Analysis
-<img width="1296" alt="image" src="./.readme_assets/analysis_png.png">
+<img width="1024" alt="image" src="./.README_ASSETS/analysis_png.png">
 
 #### Analysis Idea
 - Technical Analysis
