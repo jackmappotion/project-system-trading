@@ -1,5 +1,7 @@
 # System-Trading
 
+## Project repo 분리 필요
+
 ## main
 데이터 엔지니어링을 진행한 부분
 
