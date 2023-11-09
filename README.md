@@ -1,5 +1,8 @@
 # System-Trading
 
+# Fundamental Analysis 완성
+# Processor 분리?
+
 ## Project repo 분리 필요
 - 
 analysis done
