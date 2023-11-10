@@ -2,6 +2,8 @@
 
 # Fundamental Analysis 완성
 # Processor 분리?
+# Technical anylsis [test] 완성
+- modulize 필요~
 
 ## Project repo 분리 필요
 - 
