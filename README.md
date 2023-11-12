@@ -1,5 +1,8 @@
 # System-Trading
 
+# Volume Analaysis 
+이평선 기반으로 거래량 평가하기:
+
 # Fundamental Analysis 완성
 # Processor 분리?
 # Technical anylsis [test] 완성
