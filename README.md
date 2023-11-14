@@ -1,5 +1,7 @@
 # System-Trading
 
+# DataSource / Analysis Production 부분 작업중 
+loader / processor / fundamental analysis / technical analysis 로 나눔
 # Volume Analaysis 
 이평선 기반으로 거래량 평가하기:
 
