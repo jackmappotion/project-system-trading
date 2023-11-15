@@ -1,5 +1,8 @@
 # System-Trading
 
+# Sector based analysis -> modulize and fancier / model part start
+
+
 # Linear Coef analyser / 2d factors_analyser 작업 진행하기(둘다 prod part)
 
 # DataSource / Analysis Production 부분 작업중 
