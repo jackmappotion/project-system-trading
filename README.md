@@ -1,7 +1,12 @@
 # System-Trading
 
-# Sector based analysis -> modulize and fancier / model part start
+# 2023-11-16 Sector based analysis 부분 modulizing 에서 좀 해맴
+## factor analysis 코드를 리팩토링함
+## Analysis 마무리 짓고, Datasource / Analysis 에서 준비된것 기반으로 
+## Model 부분 model_v1 setting
 
+
+# Sector based analysis -> modulize and fancier / model part start
 
 # Linear Coef analyser / 2d factors_analyser 작업 진행하기(둘다 prod part)
 
