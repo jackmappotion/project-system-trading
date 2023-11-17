@@ -1,5 +1,22 @@
 # System-Trading
 
+# 20023-11-16 Model 부분 modulizing 완료
+Model -> Order 넘어갈때 자동화전 analysis 파트가 필요?
+
+analysis_1 -> analysis for parameter settings
+
+Model -> Model Selected Stockcodes
+
+analysis_2 -> analaysis before order
+
+order 전에 order에 대한 정보 저장?
+
+order -> 
+	- buying order
+	- selling order
+	- limit order
+
+
 # 2023-11-16 Sector based analysis 부분 modulizing 에서 좀 해맴
 ## factor analysis 코드를 리팩토링함
 ## Analysis 마무리 짓고, Datasource / Analysis 에서 준비된것 기반으로 
