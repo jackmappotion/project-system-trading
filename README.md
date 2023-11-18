@@ -1,6 +1,7 @@
 # System-Trading
 
 # 20023-11-16 Model 부분 modulizing 완료
+```
 Model -> Order 넘어갈때 자동화전 analysis 파트가 필요?
 
 analysis_1 -> analysis for parameter settings
@@ -15,7 +16,7 @@ order ->
 	- buying order
 	- selling order
 	- limit order
-
+```
 
 # 2023-11-16 Sector based analysis 부분 modulizing 에서 좀 해맴
 ## factor analysis 코드를 리팩토링함
