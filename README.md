@@ -1,5 +1,15 @@
 # System-Trading
 
+# 2023-11-19
+
+```
+Model Modulize
+
+	- Fundamental
+	- Technical
+	- Trading
+```
+
 # 20023-11-16 Model 부분 modulizing 완료
 ```
 Model -> Order 넘어갈때 자동화전 analysis 파트가 필요?
